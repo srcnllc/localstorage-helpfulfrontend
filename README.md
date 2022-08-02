@@ -4,8 +4,6 @@ DEMO_LİNK : https://srcnllc.github.io/localstorage-helpfulfrontend/
 
 Frontend Developer için çağımızın en fazla kullanılan framework olan "REACT.JS" öğrenmek adına hazırladığım bir örnek projedir.
 
-Proje "https://swapi.dev/api/films" Apisi üzerinden film isimleri çekilerek yapılmıştır.  
-
  ## Proje ile birlikte;
  -useState ve useEffect hookları kullanımı ile bu yapıları kullanmayı daha kalıcı bilgi edinmemi sağladı.  
  -Javascript map fonksiyonu ile birlikte döndürdüğü dizi içeriği kadar yeni div eklemesi yapıldı.  
