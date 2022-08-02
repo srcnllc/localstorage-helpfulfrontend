@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/localstorage-helpfulfrontend/static/css/main.4898f7f1.css",
+    "main.js": "/localstorage-helpfulfrontend/static/js/main.ea9fe9e2.js",
+    "index.html": "/localstorage-helpfulfrontend/index.html",
+    "main.4898f7f1.css.map": "/localstorage-helpfulfrontend/static/css/main.4898f7f1.css.map",
+    "main.ea9fe9e2.js.map": "/localstorage-helpfulfrontend/static/js/main.ea9fe9e2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4898f7f1.css",
+    "static/js/main.ea9fe9e2.js"
+  ]
+}
